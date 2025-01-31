@@ -1,6 +1,7 @@
 # Reuse Data Workshop
 
-(tentative date:
+tentative date:
+
 9 May 2025 09:00 - 11:00 Central US / 07:00 - 10:00 Pacific / 14:00 - 17:00 Brazilia
 
 
